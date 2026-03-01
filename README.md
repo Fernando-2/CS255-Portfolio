@@ -3,9 +3,9 @@
 System analysis and design portfolio featuring the DriverPass project.
 
 ## DriverPass Project Artifacts
-- [Business Requirements Document (Project One)]([DriverPass_Business_Requirements_Document_FINAL.docx](https://github.com/user-attachments/files/25666547/DriverPass_Business_Requirements_Document_FINAL.docx))
-- [System Design Document (Project Two)]([DriverPass_System_Design_Document.docx](https://github.com/user-attachments/files/25666546/DriverPass_System_Design_Document.docx))
-- [Client Presentation]([DriverPass_Client_Presentation.pptx](https://github.com/user-attachments/files/25666545/DriverPass_Client_Presentation.pptx))
+- [Business Requirements Document (Project One)](./DriverPass_Business_Requirements_Document_FINAL.docx)
+- [System Design Document (Project Two)](./DriverPass_System_Design_Document.docx)
+- [Client Presentation](./DriverPass_Client_Presentation.pptx)
 
 ## Project Summary
 DriverPass was the client for this project. They wanted a secure, web-based system that helps students prepare for driving exams through online practice tests and by scheduling behind-the-wheel training. The system needed to support multiple user roles (customers/students, instructors, admins/staff, and IT) with role-based access and tools for scheduling, account management, and reporting.
